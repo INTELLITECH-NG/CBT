@@ -1,0 +1,20 @@
+@charset "utf-8";
+@charset "utf-8";
+
+
+Body, div, img, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dd, dt, blockquote, fieldset, legend, label, input, textarea { margin: 0; padding: 0; border: 0; } sh1, h2, h3, h4, h5, h6, p { margin: 0 0 1em 0; } h1{font-size: 200%;} h2{font-size: 170%;} h3{font-size: 160%;} h4{font-size: 140%;} h5{font-size: 120%;}
+
+.homeContent { height: 100%; width: 100%; position: relative; margin: 0 auto; } #mainBG { background: url(cbtadmin/images/big.jpg) no-repeat scroll; background-position:center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; }
+
+Read more: http://mrbool.com/how-to-create-responsive-websites-with-html-and-css/26259#ixzz3JvwR2yEL
+@media only screen and (max-width: 1024px) and (orientation:landscape) { #mainBG { background: url(images/medium.jpg) 50% 0 no-repeat scroll !important; background-position:center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; } } @media only screen and (min-width: 768px) and (max-width: 991px) { #mainBG { background: url(cbtadmin/images/medium.jpg) 50% 80% no-repeat scroll  !important; background-position:center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; } }
+
+Read more: http://mrbool.com/how-to-create-responsive-websites-with-html-and-css/26259#ixzz3JvwVc1Te
+
+@media only screen and (min-width: 0px) and (max-width: 767px) { #mainBG { background: url(images/small.jpg) 75% 80% no-repeat scroll !important; background-position:center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; } }
+
+Read more: http://mrbool.com/how-to-create-responsive-websites-with-html-and-css/26259#ixzz3JvwZ51WJ
+
+
+html, body { height: 100%; }/* CSS Document */
+

@@ -1,0 +1,19 @@
+[Wed Apr 01 17:24:42 2015] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Wed Apr 01 17:24:42 2015] [notice] Server built: Sep 10 2011 11:34:11
+[Wed Apr 01 17:24:42 2015] [notice] Parent: Created child process 4724
+[Wed Apr 01 17:24:43 2015] [notice] Child 4724: Child process is running
+[Wed Apr 01 17:24:43 2015] [notice] Child 4724: Acquired the start mutex.
+[Wed Apr 01 17:24:43 2015] [notice] Child 4724: Starting 64 worker threads.
+[Wed Apr 01 17:24:43 2015] [notice] Child 4724: Starting thread to listen on port 8080.
+[Wed Apr 01 17:24:43 2015] [notice] Child 4724: Starting thread to listen on port 8080.
+[Wed Apr 01 17:24:47 2015] [error] [client 127.0.0.1] File does not exist: C:/Users/USER/Desktop/ALL OLD CBT/CBTID1E/root/din.aspx
+[Wed Apr 01 17:24:57 2015] [error] [client 127.0.0.1] File does not exist: C:/Users/USER/Desktop/ALL OLD CBT/CBTID1E/root/din.aspx
+[Wed Apr 01 17:25:00 2015] [error] [client 127.0.0.1] File does not exist: C:/Users/USER/Desktop/ALL OLD CBT/CBTID1E/root/msdownload
+[Wed Apr 01 17:25:00 2015] [error] [client 127.0.0.1] File does not exist: C:/Users/USER/Desktop/ALL OLD CBT/CBTID1E/root/MFEwTzBNMEswSTAJBgUrDgMCGgUABBS56bKHAoUD+Oyl+0LhPg9JxyQm4gQUf9Nlp8Ld7LvwMAnzQzn6Aq8zMTMCEFIA5aolVvwahu2WydRLM8c=
+[Wed Apr 01 17:25:00 2015] [error] [client 127.0.0.1] File does not exist: C:/Users/USER/Desktop/ALL OLD CBT/CBTID1E/root/pca3-g5.crl
+[Wed Apr 01 17:25:01 2015] [error] [client 127.0.0.1] File does not exist: C:/Users/USER/Desktop/ALL OLD CBT/CBTID1E/root/CSC3-2010.crl
+[Wed Apr 01 17:25:07 2015] [error] [client 127.0.0.1] File does not exist: C:/Users/USER/Desktop/ALL OLD CBT/CBTID1E/root/din.aspx
+[Wed Feb 11 17:25:11 2015] [error] [client 127.0.0.1] File does not exist: C:/Users/USER/Desktop/ALL OLD CBT/CBTID1E/root/din.aspx
+[Wed Feb 11 17:25:11 2015] [error] [client ::1] PHP Deprecated:  Function ereg_replace() is deprecated in C:\\Users\\USER\\Desktop\\ALL OLD CBT\\CBTID1E\\root\\cbt\\cbtadmin\\index.php(2) : eval()'d code(1) : eval()'d code on line 1, referer: http://localhost:8080/
+[Wed Feb 11 17:25:11 2015] [error] [client ::1] PHP Deprecated:  Function ereg_replace() is deprecated in C:\\Users\\USER\\Desktop\\ALL OLD CBT\\CBTID1E\\root\\cbt\\cbtadmin\\includes\\connect.inc.php(2) : eval()'d code(1) : eval()'d code on line 1, referer: http://localhost:8080/
+[Wed Feb 11 17:25:11 2015] [error] [client ::1] PHP Deprecated:  Function ereg_replace() is deprecated in C:\\Users\\USER\\Desktop\\ALL OLD CBT\\CBTID1E\\root\\cbt\\cbtadmin\\footer.php(2) : eval()'d code(1) : eval()'d code on line 1, referer: http://localhost:8080/

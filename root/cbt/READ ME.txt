@@ -1,0 +1,31 @@
+FOR MORE INFORMATION ON INSTALLATION INSTRUCTION: CALL Adeyinka Idowu Adewumi on 08135567221 or email iadeyinka03@gmail.com          facebook name: idmaintzain
+or iadeyinka@trenet.com.ng
+
+
+SERVER CONFIGURATION. (WAMP SERVER PREFEERABLY)
+wamp 2.0 preferrably, higher version of WAMP might not compactible on localhost
+Apache Version :
+2.2.8  
+PHP Version :
+5.2.5  
+
+Database Name:cbt_trenet
+Username: trenetcbt
+Password: adeyinka
+
+
+
+INSTALLATION INSTRUCTION:
+Copy all the content of the file to your root forlder (WWW)
+Start your WAMP server, open PHPMYADMIN
+Create a database name cbt_trenet, Add a new user (Priviledge) username:trenetcbt and password adeyinka to the database
+export the database cbt_trenet into it.
+Fire your application
+
+For the admin interface, use /cbtadmin   i.e.  localhost/cbt/cbtadmin  username:admin, password admin
+
+ENJOY YOUR APPLICATION
+
+CONTACT ME IF YOU NEED SOME CHANGES THERE OR YOU WANT TO PERSONALIZE IT FOR YOUR CLIENT
+
+NOTE: This file is protected by copyright law and provided under license. Reverse engineering of this file is strictly prohibited.

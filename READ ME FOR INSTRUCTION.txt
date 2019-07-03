@@ -1,0 +1,24 @@
+Hello
+
+NOTE: This is the old version of CBT as the recent version screenshot is in the folder called screebshot
+
+Thanks for downloading a copy of myCBT web app, you dont need any knowledge of WAMP/XAMP SERVER 
+installation. Simply click on usbwebserver, wait for apache and mysql to run, then click on localhost
+
+Some of the features include
+
+-100 question
+-question can include mathemathical expression  and images (What You See is What You Get form editor)
+-add as many subject as u like
+-upload question with excel format
+-It can run on LAN-WLAN and online
+-SMS integration.....that is parent/student receives message as soon as the student complete his or her exam
+-Instant Result
+-First login attempts is to write exam, while account will be deactivated after the time is exhuasted or 
+he or she ends exam, then the second logins attempts will show questions and answer review, then the admin will 
+have to re-activate the account to set candidate to re-write exam
+-Export result to excel
+_Set time
+
+e.t.c
+NOTE:
